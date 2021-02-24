@@ -1,0 +1,32 @@
+ol,ul{
+	list-style:none;
+	color:black;
+}
+#mainMenu{
+	margin:0px;
+	width:1000px;
+	
+}
+#mainMenu li{
+	display:block;
+	width:120px;
+	float:left;
+	margin-left:150px;
+	color:black;
+ }
+ 
+#mainMenu a{
+	display:block;
+	padding:10px;
+	color:#000;
+	text-decoration:none;
+	background-color:#fff;
+	margin:10px;
+ }
+ #mainMenu a:hover{
+	 background-color:#FFA500;
+	 color:#fff;
+ }
+ a { 
+ color: #FF0000;
+ }
